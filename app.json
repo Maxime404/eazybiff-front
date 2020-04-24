@@ -2,6 +2,7 @@
   "expo": {
     "name": "eazybiff-front",
     "slug": "eazybiff-front",
+    "entryPoint": "./src/App.js",
     "platforms": [
       "ios",
       "android",
